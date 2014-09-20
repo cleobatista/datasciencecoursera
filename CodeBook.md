@@ -2,565 +2,565 @@
 
 
 
->subject 
+> subject 
 
-* Subject who participed in the Samsung Research
-
-
+* Subject who participated in the Samsung Research
 
 
->activity
+
+
+> activity
 
 * Activity developed by the subject
 
 
 
 
->tBodyAccMeanX 
+> tBodyAccMeanX 
 
 * Time domain signal - Body's Accelerometer Signal - Mean Value in X
 
 
 
 
->tBodyAccMeanY 
+> tBodyAccMeanY 
 
 * Time domain signal - Body's Accelerometer Signal - Mean Value in Y
 
 
 
 
->tBodyAccMeanZ 
+> tBodyAccMeanZ 
 
 * Time domain signal - Body's Accelerometer Signal - Mean Value in Z
 
 
 
 
->tGravityAccMeanX 
+> tGravityAccMeanX 
 
 * Time domain signal - Gravity Accelerometer Signal - Mean Value in X
 
 
 
 
->tGravityAccMeanY 
+> tGravityAccMeanY 
 
 * Time domain signal - Gravity Accelerometer Signal - Mean Value in Y
 
 
 
 
->tGravityAccMeanZ 
+> tGravityAccMeanZ 
 
 * Time domain signal - Gravity Accelerometer Signal - Mean Value in Z
 
 
 
 
->tBodyAccJerkMeanX 
+> tBodyAccJerkMeanX 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk - Mean Value in X
 
 
 
 
->tBodyAccJerkMeanY 
+> tBodyAccJerkMeanY 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk - Mean Value in Y
 
 
 
 
->tBodyAccJerkMeanZ 
+> tBodyAccJerkMeanZ 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk - Mean Value in Z
 
 
 
 
->tBodyGyroMeanX 
+> tBodyGyroMeanX 
 
 * Time domain signal - Body's Gyroscope signal - Mean Value in X
 
 
 
 
->tBodyGyroMeanY 
+> tBodyGyroMeanY 
 
 * Time domain signal - Body's Gyroscope signal - Mean Value in Y
 
 
 
 
->tBodyGyroMeanZ 
+> tBodyGyroMeanZ 
 
 * Time domain signal - Body's Gyroscope signal - Mean Value in Z
 
 
 
 
->tBodyGyroJerkMeanX 
+> tBodyGyroJerkMeanX 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk - Mean Value in X
 
 
 
 
->tBodyGyroJerkMeanY 
+> tBodyGyroJerkMeanY 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk - Mean Value in Y
 
 
 
 
->tBodyGyroJerkMeanZ 
+> tBodyGyroJerkMeanZ 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk - Mean Value in Z
 
 
 
 
->tBodyAccMagMean 
+> tBodyAccMagMean 
 
 * Time domain signal - Body's Accelerometer Signal - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->tGravityAccMagMean 
+> tGravityAccMagMean 
 
 * Time domain signal - Gravity Accelerometer Signal - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->tBodyAccJerkMagMean 
+> tBodyAccJerkMagMean 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->tBodyGyroMagMean 
+> tBodyGyroMagMean 
 
 * Time domain signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->tBodyGyroJerkMagMean 
+> tBodyGyroJerkMagMean 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->fBodyAccMeanX 
+> fBodyAccMeanX 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Mean Value in X
 
 
 
 
->fBodyAccMeanY 
+> fBodyAccMeanY 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Mean Value in Y
 
 
 
 
->fBodyAccMeanZ 
+> fBodyAccMeanZ 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Mean Value in Z
 
 
 
 
->fBodyAccMeanFreqX 
+> fBodyAccMeanFreqX 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Weighted average of the frequency components to obtain a mean frequency in X
 
 
 
 
->fBodyAccMeanFreqY 
+> fBodyAccMeanFreqY 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Weighted average of the frequency components to obtain a mean frequency in Y
 
 
 
 
->fBodyAccMeanFreqZ 
+> fBodyAccMeanFreqZ 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Weighted average of the frequency components to obtain a mean frequency in Z
 
 
 
 
->fBodyAccJerkMeanX 
+> fBodyAccJerkMeanX 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Mean Value in X
 
 
 
 
->fBodyAccJerkMeanY 
+> fBodyAccJerkMeanY 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Mean Value in Y
 
 
 
 
->fBodyAccJerkMeanZ 
+> fBodyAccJerkMeanZ 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Mean Value in Z
 
 
 
 
->fBodyAccJerkMeanFreqX 
+> fBodyAccJerkMeanFreqX 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Weighted average of the frequency components to obtain a mean frequency in X
 
 
 
 
->fBodyAccJerkMeanFreqY 
+> fBodyAccJerkMeanFreqY 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Weighted average of the frequency components to obtain a mean frequency in Y
 
 
 
 
->fBodyAccJerkMeanFreqZ 
+> fBodyAccJerkMeanFreqZ 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Weighted average of the frequency components to obtain a mean frequency in Z
 
 
 
 
->fBodyGyroMeanX 
+> fBodyGyroMeanX 
 
 * Frequency domain Signal - Body's Gyroscope signal - Mean Value in X
 
 
 
 
->fBodyGyroMeanY 
+> fBodyGyroMeanY 
 
 * Frequency domain Signal - Body's Gyroscope signal - Mean Value in Y
 
 
 
 
->fBodyGyroMeanZ 
+> fBodyGyroMeanZ 
 
 * Frequency domain Signal - Body's Gyroscope signal - Mean Value in Z
 
 
 
 
->fBodyGyroMeanFreqX 
+> fBodyGyroMeanFreqX 
 
 * Frequency domain Signal - Body's Gyroscope signal - Weighted average of the frequency components to obtain a mean frequency in X
 
 
 
 
->fBodyGyroMeanFreqY 
+> fBodyGyroMeanFreqY 
 
 * Frequency domain Signal - Body's Gyroscope signal - Weighted average of the frequency components to obtain a mean frequency in Y
 
 
 
 
->fBodyGyroMeanFreqZ 
+> fBodyGyroMeanFreqZ 
 
 * Frequency domain Signal - Body's Gyroscope signal - Weighted average of the frequency components to obtain a mean frequency in Z
 
 
 
 
->fBodyAccMagMean 
+> fBodyAccMagMean 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->fBodyAccMagMeanFreq 
+> fBodyAccMagMeanFreq 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
 
->fBodyAccJerkMagMean 
+> fBodyAccJerkMagMean 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->fBodyAccJerkMagMeanFreq 
+> fBodyAccJerkMagMeanFreq 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
 
 
 
->fBodyGyroMagMean 
+> fBodyGyroMagMean 
 
 * Frequency domain Signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->fBodyGyroMagMeanFreq 
+> fBodyGyroMagMeanFreq 
 
 * Frequency domain Signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
 
 
 
->fBodyGyroJerkMagMean 
+> fBodyGyroJerkMagMean 
 
 * Frequency domain Signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Mean Value
 
 
 
 
->fBodyGyroJerkMagMeanFreq 
+> fBodyGyroJerkMagMeanFreq 
 
 * Frequency domain Signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
 
 
 
->tBodyAccSDX 
+> tBodyAccSDX 
 
 * Time domain signal - Body's Accelerometer Signal Standard Deviation Value in X
 
 
 
 
->tBodyAccSDY 
+> tBodyAccSDY 
 
 * Time domain signal - Body's Accelerometer Signal Standard Deviation Value in Y
 
 
 
 
->tBodyAccSDZ 
+> tBodyAccSDZ 
 
 * Time domain signal - Body's Accelerometer Signal Standard Deviation Value in Z
 
 
 
 
->tGravityAccSDX 
+> tGravityAccSDX 
 
 * Time domain signal - Gravity Accelerometer Signal Standard Deviation Value in X
 
 
 
 
->tGravityAccSDY 
+> tGravityAccSDY 
 
 * Time domain signal - Gravity Accelerometer Signal Standard Deviation Value in Y
 
 
 
 
->tGravityAccSDZ 
+> tGravityAccSDZ 
 
 * Time domain signal - Gravity Accelerometer Signal Standard Deviation Value in Z
 
 
 
 
->tBodyAccJerkSDX 
+> tBodyAccJerkSDX 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk Standard Deviation Value in X
 
 
 
 
->tBodyAccJerkSDY 
+> tBodyAccJerkSDY 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk Standard Deviation Value in Y
 
 
 
 
->tBodyAccJerkSDZ 
+> tBodyAccJerkSDZ 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk Standard Deviation Value in Z
 
 
 
 
->tBodyGyroSDX 
+> tBodyGyroSDX 
 
 * Time domain signal - Body's Gyroscope signal Standard Deviation Value in X
 
 
 
 
->tBodyGyroSDY 
+> tBodyGyroSDY 
 
 * Time domain signal - Body's Gyroscope signal Standard Deviation Value in Y
 
 
 
 
->tBodyGyroSDZ 
+> tBodyGyroSDZ 
 
 * Time domain signal - Body's Gyroscope signal Standard Deviation Value in Z
 
 
 
 
->tBodyGyroJerkSDX 
+> tBodyGyroJerkSDX 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk Standard Deviation Value in X
 
 
 
 
->tBodyGyroJerkSDY 
+> tBodyGyroJerkSDY 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk Standard Deviation Value in Y
 
 
 
 
->tBodyGyroJerkSDZ 
+> tBodyGyroJerkSDZ 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk Standard Deviation Value in Z
 
 
 
 
->tBodyAccMagSD 
+> tBodyAccMagSD 
 
 * Time domain signal - Body's Accelerometer Signal - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->tGravityAccMagSD 
+> tGravityAccMagSD 
 
 * Time domain signal - Gravity Accelerometer Signal - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->tBodyAccJerkMagSD 
+> tBodyAccJerkMagSD 
 
 * Time domain signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->tBodyGyroMagSD 
+> tBodyGyroMagSD 
 
 * Time domain signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->tBodyGyroJerkMagSD 
+> tBodyGyroJerkMagSD 
 
 * Time domain signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->fBodyAccSDX 
+> fBodyAccSDX 
 
 * Frequency domain Signal - Body's Accelerometer Signal Standard Deviation Value in X
 
 
 
 
->fBodyAccSDY 
+> fBodyAccSDY 
 
 * Frequency domain Signal - Body's Accelerometer Signal Standard Deviation Value in Y
 
 
 
 
->fBodyAccSDZ 
+> fBodyAccSDZ 
 
 * Frequency domain Signal - Body's Accelerometer Signal Standard Deviation Value in Z
 
 
 
 
->fBodyAccJerkSDX 
+> fBodyAccJerkSDX 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk Standard Deviation Value in X
 
 
 
 
->fBodyAccJerkSDY 
+> fBodyAccJerkSDY 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk Standard Deviation Value in Y
 
 
 
 
->fBodyAccJerkSDZ 
+> fBodyAccJerkSDZ 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk Standard Deviation Value in Z
 
 
 
 
->fBodyGyroSDX 
+> fBodyGyroSDX 
 
 * Frequency domain Signal - Body's Gyroscope signal Standard Deviation Value in X
 
 
 
 
->fBodyGyroSDY 
+> fBodyGyroSDY 
 
 * Frequency domain Signal - Body's Gyroscope signal Standard Deviation Value in Y
 
 
 
 
->fBodyGyroSDZ 
+> fBodyGyroSDZ 
 
 * Frequency domain Signal - Body's Gyroscope signal Standard Deviation Value in Z
 
 
 
 
->fBodyAccMagSD 
+> fBodyAccMagSD 
 
 * Frequency domain Signal - Body's Accelerometer Signal - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->fBodyAccJerkMagSD 
+> fBodyAccJerkMagSD 
 
 * Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->fBodyGyroMagSD 
+> fBodyGyroMagSD 
 
 * Frequency domain Signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
 
 
 
->fBodyGyroJerkMagSD 
+> fBodyGyroJerkMagSD 
 
 * Frequency domain Signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Standard Deviation Value
 
