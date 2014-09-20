@@ -261,9 +261,9 @@ frequency
 
 >fBodyAccJerkMagMeanFreq 
 
-* Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Weighted average of the frequency 
+* Frequency domain Signal - Body's Accelerometer Signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
-components to obtain a mean frequency
+
 
 >fBodyGyroMagMean 
 
@@ -273,9 +273,9 @@ components to obtain a mean frequency
 
 >fBodyGyroMagMeanFreq 
 
-* Frequency domain Signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean 
+* Frequency domain Signal - Body's Gyroscope signal - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
-frequency
+
 
 >fBodyGyroJerkMagMean 
 
@@ -285,9 +285,9 @@ frequency
 
 >fBodyGyroJerkMagMeanFreq 
 
-* Frequency domain Signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Weighted average of the frequency 
+* Frequency domain Signal - Body's Gyroscope signal derivated in time to Jerk - Magnitude calculed using Euclidean norm - Weighted average of the frequency components to obtain a mean frequency
 
-components to obtain a mean frequency
+
 
 >tBodyAccSDX 
 
